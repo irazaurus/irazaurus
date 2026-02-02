@@ -7,6 +7,7 @@ I'm a 3rd year student pursuing Master's in Game Development from ITMO Universit
 <h3 align="left">Technology Stack:</h3>
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/HLSL-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 </p>
