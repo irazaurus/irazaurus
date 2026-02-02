@@ -4,8 +4,6 @@
 
 I'm a 3rd year student pursuing Master's in Game Development from ITMO University. I love making fun and meaningfull games. I specialise in PC games, but also do mobile and web. I'm in the process of developing a game called ‘Chess Walkers’, check it out on my itch page!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irazaurus&hide=contribs,stars&hide_rank=true&theme=radical)
-
 <h3 align="left">Technology Stack:</h3>
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
