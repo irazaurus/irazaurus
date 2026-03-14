@@ -2,7 +2,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE1dTkwMTF6cDA4bm5ybWxkOXkxZzIxbWQyNjZheHRteTdlaDhydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif">
 
-I'm a 3rd year student pursuing Master's in Game Development from ITMO University. I love making fun and meaningfull games. I specialise in PC games, but also do mobile and web. I'm in the process of developing a game called ‘Chess Walkers’, check it out on my itch page!
+I'm a 3rd year student pursuing Master's in Game Development from ITMO University and I LOVE making fun and meaningfull games! I specialise in programming gameplay mechanics on PC games, but can also do mobile and web as well.
+
+I'm in the process of developing a game for Lesta Academy, and recently launched a game called [‘Chess Walkers’ on Steam](https://store.steampowered.com/app/4291560/ChessWalkers/)!
 
 <h3 align="left">Technology Stack:</h3>
 <p>
